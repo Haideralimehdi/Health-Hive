@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "806184078855",
+    "project_id": "flutterdoctorapp-f1e1f",
+    "storage_bucket": "flutterdoctorapp-f1e1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806184078855:android:3dff1c5d14ddae6713a4a2",
+        "android_client_info": {
+          "package_name": "com.example.doctor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806184078855-qlkfuqsfdbsdr08fhfg8av8rd4pjmg5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_app",
+            "certificate_hash": "34098189373f5af00521f0ee66058e5ac00867b0"
+          }
+        },
+        {
+          "client_id": "806184078855-0ticbr1e8ochfrvnhkadmvimh0lr50in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcwQLBHARkdBBxZOzw-wDSDDLW1X2-PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806184078855-0ticbr1e8ochfrvnhkadmvimh0lr50in.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806184078855-4slt18ro7lrosgeiavicpvl79enslhd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806184078855:android:ab524518330a1f8513a4a2",
+        "android_client_info": {
+          "package_name": "com.example.health_hive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806184078855-0ticbr1e8ochfrvnhkadmvimh0lr50in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcwQLBHARkdBBxZOzw-wDSDDLW1X2-PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806184078855-0ticbr1e8ochfrvnhkadmvimh0lr50in.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806184078855-4slt18ro7lrosgeiavicpvl79enslhd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
